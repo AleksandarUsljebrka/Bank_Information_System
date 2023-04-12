@@ -1,0 +1,54 @@
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.exe.config
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.exe
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.pdb
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Buffers.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Memory.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Numerics.Vectors.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Encodings.Web.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Json.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.ValueTuple.dll
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Buffers.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Memory.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Numerics.Vectors.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Encodings.Web.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Json.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.ValueTuple.xml
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csprojAssemblyReference.cache
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csproj.CoreCompileInputs.cache
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csproj.CopyComplete
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.exe
+D:\FAKS\V SEMESTAR\Baze Podataka\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.pdb
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.exe.config
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.exe
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Projektni_zadatak_Z3.pdb
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Text.Json.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.exe
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.pdb
+C:\Users\Lenovo\Desktop\Projektni_zadatak_Z3\Projektni_zadatak_Z3\obj\Debug\Projektni_zadatak_Z3.csproj.AssemblyReference.cache
